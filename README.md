@@ -1,24 +1,25 @@
-# beba-mais-agua
+# Beba mais água
+## Demonstração: <https://beba-mais-agua.web.app/>
 
-## Project setup
+## Instação
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação hot-reloads para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilação para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e fixes files
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalizar configuração
+Veja [Referência de configuração](https://cli.vuejs.org/config/).

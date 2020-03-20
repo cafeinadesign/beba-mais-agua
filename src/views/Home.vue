@@ -1,6 +1,6 @@
 <template>
-  <div class="ion-text-center">
-    <img alt="Vue logo" src="../assets/logo.png" class="ion-padding">
+  <div class="ion-text-center ion-padding">
+    <img alt="Vue logo" src="../assets/logo.png" height="100">
     <HelloWorld v-bind:contador="0"/>
   </div>
 </template>
