@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld :contador="0"/>
+  <div class="ion-text-center">
+    <img alt="Vue logo" src="../assets/logo.png" class="ion-padding">
+    <HelloWorld v-bind:contador="0"/>
   </div>
 </template>
 
