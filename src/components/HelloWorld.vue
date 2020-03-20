@@ -11,7 +11,12 @@
 export default {
   name: 'HelloWorld',
   props: {
-    count: Number
+    contador: Number
+  },
+  data: function() {
+    return {
+      count: this.contador
+    };
   }
 }
 </script>

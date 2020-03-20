@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld count="0"/>
+    <HelloWorld :contador="0"/>
   </div>
 </template>
 
